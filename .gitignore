@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model files
+*.onnx
+*.pt
+*.pth
+*.weights
+
+# Benchmark outputs
+benchmark_results.csv
+assets/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots
+screenshot_*.png
+
+# Logs
+*.log

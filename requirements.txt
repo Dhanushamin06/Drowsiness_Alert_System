@@ -1,0 +1,8 @@
+opencv-python>=4.8.1.78
+mediapipe>=0.10.14
+numpy>=1.26.0,<2.0.0
+onnx>=1.15.0
+onnxruntime>=1.17.0
+ultralytics>=8.0.196
+psutil>=5.9.5
+matplotlib>=3.8.0
